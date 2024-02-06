@@ -1,0 +1,8 @@
+[package]
+name = "twofa_viewer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.26"
+libreauth = "0.16"
